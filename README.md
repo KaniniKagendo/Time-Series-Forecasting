@@ -1,4 +1,4 @@
-**Algorithmic Momentum Trading Strategy**
+# Algorithmic Momentum Trading Strategy
 
 Welcome to the Algorithmic Momentum Trading Strategy project! Here, we delve into the exciting world of algorithmic trading, where cutting-edge algorithms analyze financial data to provide optimized insights, enabling traders to maximize portfolio returns.
 
